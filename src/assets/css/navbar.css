@@ -1,0 +1,12 @@
+/* src/components/navbar.css */
+.navbar {
+    transition: background-color 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .navbar-scroll {
+    background-color: rgba(0, 0, 0, 0.8) !important;
+  }
+  
